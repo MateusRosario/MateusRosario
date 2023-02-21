@@ -35,9 +35,10 @@
     <img src="assets/js.jpg" alt="drawing" width="40px"/>
     <img src="assets/html.png" alt="drawing" width="44px"/>
     <img src="assets/css.png" alt="drawing" width="44px"/>
-    <img src="assets/ts.svg" alt="drawing" width="40px"/>
-    <img src="assets/ccharp.png" alt="drawing" width="40px"/>
-    <img src="assets/java.png" alt="drawing" width="30px"/>
+    <img src="assets/ts.svg" alt="drawing" width="46px"/>
+    <img src="assets/ccharp.png" alt="drawing" width="50px"/>
+    <img src="assets/java.png" alt="drawing" width="40px"/>
+    <img src="assets/swift.png" alt="drawing" width="50px"/>
 </div>
 
 <br/>
@@ -53,6 +54,9 @@
     <img src="assets/firebase.png" alt="drawing" width="40px"/>
     <img src="assets/figma.svg" alt="drawing" width="25px"/>
     <img src="assets/diagrams.png" alt="drawing" width="38px"/>
+    <img src="assets/node-red.png" alt="drawing" width="40px"/>
+    <img src="assets/swift-ui.png" alt="drawing" width="42px"/>
+    <img src="assets/ibm-cloud.svg" alt="drawing" width="40px"/>
 </div>
 
 <br/>
