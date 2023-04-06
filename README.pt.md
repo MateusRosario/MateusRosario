@@ -15,11 +15,13 @@
 
 - 💞️ Intessado em colaborar e aprender mais habilidades
 
+- 📁 Dê uma olhada no meu [**portfólio**](https://mateusrosario.github.io/portfolio/)
+
 - 👨‍💻 Meus projetos estão disponíveis no meu perfil no [**github**](https://github.com/MateusRosario)
 
 - 📫 Você pode me contatar em **mateusrosario.me@gmail.com**
 
-- :electric_plug: Conecte-se comigo pelo meu [**linkedin**](https://www.linkedin.com/in/mateus-da-silva-rosario-275420176/)
+- :electric_plug: Conecte-se comigo pelo meu [**linkedin**](https://www.linkedin.com/in/mateus-rosario/)
 
 - :stuck_out_tongue: Uma curiosidade sobre mim é que sou muito entusiasmado com o futuro da RA e RV.
 
