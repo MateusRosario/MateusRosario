@@ -15,11 +15,13 @@
 
 - 💞️ I’m looking foward to collaborate and learn more skills
 
+- 📁 Take a look at my [**portfolio**](https://mateusrosario.github.io/portfolio/)
+
 - 👨‍💻 All of my projects are available at my [**github profile**](https://github.com/MateusRosario)
 
 - 📫 You can reach me at **mateusrosario.me@gmail.com**
 
-- :electric_plug: You can connect with me on my  [**linkedin**](https://www.linkedin.com/in/mateus-da-silva-rosario-275420176/)
+- :electric_plug: You can connect with me on my  [**linkedin**](https://www.linkedin.com/in/mateus-rosario/)
 
 - :stuck_out_tongue: A curiosity about me is that I am very enthusiastic about the future of AR and VR.
 
